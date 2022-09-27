@@ -3,7 +3,7 @@ name: Dialog Issue
 about: When there is a dialog issue for a writer to fix
 title: "[DIALOG]"
 labels: dialog issue
-assignees: ''
+assignees: 'hamstercheese7'
 
 ---
 
